@@ -1,0 +1,71 @@
+/* First section */
+.first-section {
+    width: 1088px;
+    margin: 0 auto;
+}
+.first-sec-title1 {
+    font-family: 'Inconsolata-Bold';
+    font-weight: bold;
+    color: #5863F8;
+    font-size: 14px;
+    margin-top: 82px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-style: oblique;
+}
+.first-sec-title2 {
+    font-family: 'Inconsolata-ExtraBold';
+    font-weight: 800;
+    font-size: 42px;
+    width: 498px;
+    padding: 10px 0;
+    margin-bottom: 50px;
+    letter-spacing: -1px;
+    line-height: 46px;
+}
+.first-sec-left-block {
+    display: inline-block;
+    width: 536px;
+    height: 190px;
+    margin-right: 16px;
+}
+.food-img {
+    width: 168px;
+    height: 190px;
+    vertical-align: top;
+}
+.food-description {
+    display: inline-block;
+    vertical-align: top;
+    width: 368px;
+}
+.food-description-h4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #5863F8;
+    margin: 37px 0px 0px 16px;
+    text-transform: uppercase;
+}
+.food-description-h5 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 16px;
+    line-height: 27px;
+}
+.food-description-p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: #B1B1B1;
+    margin-top: 10px;
+    margin-left: 16px;
+    width: 260px;
+}
+.first-sec-right-block {
+    display: inline-block;
+    background-color: #BE2B2B;
+    width: 536px;
+    height: 190px;
+}

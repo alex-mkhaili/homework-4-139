@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Inconsolata-ExtraBold';
+    src: url('../fonts/Inconsolata-ExtraLarge/Inconsolata-ExtraBold.eot');
+    src: url('../fonts/Inconsolata-ExtraLarge/Inconsolata-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Inconsolata-ExtraLarge/Inconsolata-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Inconsolata-ExtraLarge/Inconsolata-ExtraBold.woff') format('woff'),
+        url('../fonts/Inconsolata-ExtraLarge/Inconsolata-ExtraBold.svg#Inconsolata-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inconsolata-Bold';
+    src: url('../fonts/Inc-Bold/Inconsolata-Bold.eot');
+    src: url('../fonts/Inc-Bold/Inconsolata-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Inc-Bold/Inconsolata-Bold.woff2') format('woff2'),
+        url('../fonts/Inc-Bold/Inconsolata-Bold.woff') format('woff'),
+        url('../fonts/Inc-Bold/Inconsolata-Bold.svg#Inconsolata-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
