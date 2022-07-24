@@ -1,21 +1,19 @@
 /* First section */
+
 .first-section {
     width: 1088px;
-    margin: 0 auto;
+    margin: 82px auto 102px auto;
 }
 .first-sec-title1 {
     font-family: 'Inconsolata-Bold';
-    font-weight: bold;
     color: #5863F8;
     font-size: 14px;
-    margin-top: 82px;
     text-transform: uppercase;
     text-decoration: underline;
     font-style: oblique;
 }
 .first-sec-title2 {
     font-family: 'Inconsolata-ExtraBold';
-    font-weight: 800;
     font-size: 42px;
     width: 498px;
     padding: 10px 0;
@@ -29,7 +27,7 @@
     height: 190px;
     margin-right: 16px;
 }
-.food-img {
+.first-sec-food-img {
     width: 168px;
     height: 190px;
     vertical-align: top;
@@ -68,4 +66,70 @@
     background-color: #BE2B2B;
     width: 536px;
     height: 190px;
+}
+
+
+/* Second section */
+
+.second-section {
+    width: 1088px;
+    margin: 0 auto 154px auto;
+}
+.second-sec-title1 {
+    font-family: 'BPG Glaho WEB Bold';
+    font-size: 14px;
+    color: #5863F8;
+    font-style: italic;
+    text-decoration: underline;
+    letter-spacing: 2px;
+
+}
+.second-sec-title2 {
+    font-family: 'BPG Glaho WEB Bold';
+    font-size: 42px;
+    font-weight: 900;
+    padding: 18px 0px;
+    margin-bottom: 65px;
+    width: 465px;
+    line-height: 54px;
+}
+.first-block {
+    display: inline-block;
+    margin-right: 16px;
+}
+.second-sec-food-img {
+    width: 352px;
+    height: 212px;
+}
+.block-description {
+    width: 352px;
+    height: 148px;
+}
+.second-block {
+    display: inline-block;
+    margin-right: 16px;
+}
+.third-block {
+    display: inline-block;
+}
+.block-description-h4 {
+    font-family: "BPG Algeti", sans-serif;
+    font-size: 14px;
+    color: #5863F8;
+    font-weight: 800;
+    text-align: center;
+    margin: 23px 0px 5px 0px;
+}
+.block-description-h5 {
+    font-family: "BPG Algeti", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.block-description-p {
+    font-family: "BPG Algeti", sans-serif;
+    font-size: 14px;
+    color: #B1B1B1;
+    text-align: center;
 }
